@@ -1,5 +1,4 @@
-# Semaine 1
-# Exercices (intro)
+# Exercices 01 (intro)
 
 ## Préambule
 Créez un projet nommé `Exercices01`. Pour chaque question, créez une fonction `void` nommée `questionX_X` où X est le numéro de la question. Exemple `question2_1` pour la questions 2.1.  Appelez chaque fonction dans la fonction `main`.
@@ -39,7 +38,7 @@ Rappel: si vous entrez une expression qui contient du texte, il faut mettre l'ex
   - 4+1*10/2
 
 ## Question 1.1 - Je calcule !
-Faire **afficher** (cout) les éléments suivants un en dessous de l'autre à la console.  Il ne faut pas écrire les réponses après le `=` mais laisser l'ordinateur le calculer.
+Faire **afficher** (cout) les éléments suivants un en dessous de l'autre à la console.  Il ne faut pas écrire les réponses après le `=` mais laisser l'ordinateur les calculer.
 
   - 34 - 12 = 22 
   - 4 * 9 = 36
@@ -114,4 +113,4 @@ Vous devez, dans cet exercice, ré-écrire au complet le programme suivant (pas 
 
 ![À transcrire](images/program_dice.png)
 
-<p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
+<p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
